@@ -1,4 +1,4 @@
-# How to Run the Code
+# Diabetes Detection using Machine Learning with Feature Engineering
 
 This repository deals with the development of a model which can detect whether a person has diabetes or not by looking at Diabetes Health Indicators Dataset provided by survey responses from cleaned BRFSS 2015
 https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
