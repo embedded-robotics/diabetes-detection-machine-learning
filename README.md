@@ -13,3 +13,4 @@ Here's how the training and evaluation can be done as per the code provided in d
 6. Use `xgboost_diabetes.ipynb` to train and evalute XGBoost classifier
 7. For the evaluation of all the models, use `diabetes_classification.ipynb` since it includes training and evaluation code for all the models
 8. The training parameters for `MLP Classifier` were finalized using GridSearch and KFold cross validation. The training code and evaluation code can be found in the directory `mlp_gridsearch`
+9. The training parameters for `XGBoost Classifier` were finalized using GridSearch and KFold cross validation. The training code and evaluation code can be found in the directory `xgboost_parameter_finding.ipynb`
