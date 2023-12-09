@@ -15,4 +15,5 @@ Here's how the training and evaluation can be done as per the code provided in d
 8. The training parameters for `MLP Classifier` were finalized using GridSearch and KFold cross validation. The training code and evaluation code can be found in the directory `mlp_gridsearch`
 9. The training parameters for `XGBoost Classifier` were finalized using GridSearch and KFold cross validation. The training code and evaluation code can be found in the notebook `xgboost_parameter_finding.ipynb`
 10. The training parameters for `SVM and Logistic Regression Classifier` were finalized using GridSearch and KFold cross validation. The training code and evaluation code can be found in the notebook `lg-svm_gridsearch.ipynb`
-11. An experiment was conducted using an undersampling technique to cater for imbalanced data which is provided in `undersampling_experiment.ipynb`
+11. The training parameters for `Random Forest Classifier` were finalized using GridSearch and KFold cross validation. The training code and evaluation code can be found in the notebook `rf_grdisearch_script.ipynb`
+12. An experiment was conducted using an undersampling technique to cater for imbalanced data which is provided in `undersampling_experiment.ipynb`
