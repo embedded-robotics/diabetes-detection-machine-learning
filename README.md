@@ -3,6 +3,7 @@
 This repository deals with the development of a model which can detect whether a person has diabetes or not by looking at Diabetes Health Indicators Dataset provided by survey responses from cleaned BRFSS 2015
 https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 
+## Implementation
 Here's how the training and evaluation can be done as per the code provided in different files:
 
 1. First step is to generate the training data after applying the pre-processing on the data using `pre_processing.ipynb`
